@@ -191,3 +191,9 @@ ModelManifest.xml
 /Samples/TelcoDatGeneratorUI/App/TelcoDataGeneratorWPF
 DataGenerators/TwitterClientCore/bin/
 DataGenerators/TwitterClientCore/obj/
+
+Samples/TweetClustering/Runner/obj/
+Samples/TweetClustering/Runner/bin/
+Samples/TweetClustering/TweetClusteringUdf/bin/
+Samples/TweetClustering/TweetClusteringUdf/obj/
+Samples/TweetClustering/.vscode/
